@@ -3,6 +3,8 @@
 .cache
 .DS_Store
 .idea
+.vs
+.vscode
 .project
 .projectile
 .settings
